@@ -54,7 +54,7 @@ public class Benachrichtigungen extends JFrame {
 		contentPane.add(lblBenachrichtigungen);
 		
 		JButton backButton1 = new JButton("<-");
-		backButton1.setIcon(new ImageIcon("C:\\Users\\CHolzamer\\OneDrive\\DHBW\\Konzeption von UIs\\Images\\backIcon.png"));
+		backButton1.setIcon(new ImageIcon("./src/resources/images/backIcon.png"));
 		backButton1.setForeground(Color.BLACK);
 		backButton1.setBackground(new Color(176, 196, 222));
 		backButton1.setBounds(10, 11, 56, 23);
